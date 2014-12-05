@@ -2,15 +2,12 @@ html, body {
   height: 100%;
 }
 
-#header {
+body {
   background: #082330;
   background-size: .12em 100%;
   font: 16em/1 Arial;
 }
 
-#about{
-  background: #360745;
-}
 
 .text--line {
   font-size: .5em;

@@ -14,6 +14,10 @@ svg {
     width: 100%;
     height: 100%;
 }
+
+.element{
+  font-size: 20px;
+}
 #tagline {
     color: white;
     font-size: 40px;
@@ -37,7 +41,7 @@ svg {
 }
 .text-copy:nth-child(2) {
     stroke: #D61C59;
-    stroke-dashoffset: 14%;
+    stroke-dashoffset: 14%;T
     text-shadow: 2px 2px #000000;
 }
 .text-copy:nth-child(3) {

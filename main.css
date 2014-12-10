@@ -34,26 +34,38 @@ svg {
   stroke-dasharray: 7% 28%;
   stroke-width: 3px;
   animation: stroke-offset 6s infinite linear;
+    text-shadow: 2px 2px #000000;  
+
 }
 .text-copy:nth-child(1) {
   stroke: #360745;
   stroke-dashoffset: 7%;
+    text-shadow: 2px 2px #000000;  
+
 }
 .text-copy:nth-child(2) {
   stroke: #D61C59;
   stroke-dashoffset: 14%;
+    text-shadow: 2px 2px #000000;  
+
 }
 .text-copy:nth-child(3) {
   stroke: #E7D84B;
   stroke-dashoffset: 21%;
+    text-shadow: 2px 2px #000000;  
+
 }
 .text-copy:nth-child(4) {
   stroke: #EFEAC5;
   stroke-dashoffset: 28%;
+    text-shadow: 2px 2px #000000;  
+
 }
 .text-copy:nth-child(5) {
   stroke: #1B8798;
   stroke-dashoffset: 35%;
+    text-shadow: 2px 2px #000000;  
+
 }
 
 @keyframes stroke-offset {
